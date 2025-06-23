@@ -19,12 +19,3 @@
 
 ---
 
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/your-username/cognitive-ui-sfml.git
-cd cognitive-ui-sfml
-mkdir build && cd build
-cmake ..
-make
-./CognitiveUI
