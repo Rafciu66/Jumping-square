@@ -1,7 +1,7 @@
 # 🕹️ Easy Jump King-like game 
 
-🎥 **Demo Video**: [https://youtu.be/your-demo-link](https://youtu.be/your-demo-link)
-
+🎥 **Demo Video**: [https://youtu.be/6dHHgPSvI6w](https://youtu.be/6dHHgPSvI6w)
+![UI Preview](assets/ui-preview.png)
 ---
 
 ## ✨ Features
